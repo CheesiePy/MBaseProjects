@@ -1,15 +1,25 @@
+# __Python ToolBox Project  :)__
+
+
+### __Author:__ **__May Lindenberg__**
+
+
++ __[GitHub](https://github.com/CheesiePy)__ | __[GitLab](https://gitlab.com/CheesiePy)__ | __[Linkedin](https://www.linkedin.com/in/may-lindenberg-a58b401ab)__
+
+
+
+
+### __Version:__ **__0.1.0__**
+
+
+
 ---
-__Python ToolBox Project  :)__
-
-__Author:__ **__May Lindenberg__**
-
-__Version:__ **__0.1.0__**
 
 
-+ __[GitHub](https://github.com/CheesiePy)__
-+ __[GitLab](https://gitlab.com/CheesiePy)__
 
-The idea for me is slollowly to create a toolbox for python.
+---
+
+The idea for me is slowly to create a toolbox for python.
 
 
 __Current Models:__
